@@ -1,0 +1,18 @@
+body		{ 	font-family: arial, helvetica, sans-serif; 
+		  		background-color: #CCFFFF;}
+div			{	border-radius: 5px;}
+h1			{ 	font-size: 34px; }
+.info		{	text-align: center; 
+				margin: 5px;
+				background-color: #00FFFF;
+			}
+.objective	{	margin: 5px;
+				padding-left: 5px;}
+.education	{	margin: 5px;
+				padding-left: 5px;}
+.experience	{	margin: 5px;
+				padding-left: 5px;}
+.skills		{	margin: 5px;
+				padding-left: 5px;}
+.accomp		{	margin: 5px;
+				padding-left: 5px;}
